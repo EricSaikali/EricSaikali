@@ -15,17 +15,7 @@
 
 ### 🌐 Find Me Online  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-saikali/)  
-- 🖥️ [GitHub](https://github.com/EricSaikali)  
-- 📜 Publicly available Projects:  
-  - [Fine-tuning a 2.8B LLM](https://github.com/EricSaikali/2.8B-Phi-2-LLM-QA)  
-  - [Privacy Attacks on DDPMs](https://github.com/EricSaikali/DDPM-reconstruction-attack) 
-  - [Tokamak Fusion Data Analysis](https://github.com/Captcha-ML/tokamak-unsupervised/tree/main)
-  - [Focus Controlled Car](https://github.com/EPFL-EEG-Team/.github/blob/main/EEG_Final_Report.pdf)
-  - [ConnectOut](https://github.com/ConnectOut-sdp/sdp2023)
-  - [A brief work on Paraphrasing](https://github.com/EricSaikali/paraphrasing)
-  - [The formula for a perfect movie](https://ada-data-explorers.github.io)
-  - [From Scratch Recommender System](https://github.com/DIS-InfoExplorers/Project-2)
-  - [From Scratch Name entity disambiguiation](https://github.com/DIS-InfoExplorers/Project-3)
+- 🖥️ [GitHub](https://github.com/EricSaikali)
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Eric Saikali</h1>
-<h3 align="center">Master’s student in Data Science (Minor in Cybersecurity) at EPFL, aiming to Build Secure & Privacy-Preserving AI Models and Systems</h3>
+<h3 align="center">Aiming to Build Secure & Privacy-Preserving AI Models and Systems</h3>
 
 ---
 

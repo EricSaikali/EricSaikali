@@ -24,8 +24,4 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EricSaikali&show_icons=true&include_all_commits=true&count_private=true&theme=vue&line_height=40" />
 </div>
 
-<br />
-<h2 align="left"> 🔥 Streak Stats </h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricSaikali&theme=vue"/>
 </p>

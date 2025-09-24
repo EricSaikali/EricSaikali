@@ -6,7 +6,7 @@
 ### 🌟 About Me  
 - 🔐 Passionate about **AI Security, Privacy, Machine Learning and Large Language Models (LLMs)**.  
 - 🚀 Co-Founder of [**BoundaryAI**](https://www.boundary-ai.com), where I lead team and built LLM-driven analytics solutions used by clients.  
-- 📊 Research at [**Swisscom**](https://swisscom.ch) and [**EPFL SPRING Lab**](https://spring.epfl.ch/) respectively on Privacy in LLMs and privacy attacks against AI using diffusion models.
+- 📊 Research at [**Swisscom**](https://swisscom.ch) and [**EPFL SPRING Lab**](https://spring.epfl.ch/) respectively on Privacy in LLMs and privacy attacks using diffusion models.
 - 🎓 I’m finishing my **Master’s in Data Science** at [EPFL](https://www.topuniversities.com/universities/epfl-ecole-polytechnique-federale-de-lausanne), ranked among the world’s top universities.  
 - 💡 Always excited to collaborate on **meaningful projects** in AI, privacy, and software engineering.  
 - 📫 Reach me at **eric.saikali@epfl.ch** or **ericsaikali0001@gmail.com**

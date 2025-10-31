@@ -11,6 +11,17 @@
 - 💡 Always excited to collaborate on **meaningful projects** in AI, privacy, and software engineering.  
 - 📫 Reach me at **eric.saikali@epfl.ch** or **ericsaikali0001@gmail.com**
 
+
+---
+
+### Some of my coolest personal/public projects!:
+Choose freely your department ;) :
+- **AI & Datascience**:  a Mind/Focus controlled car, the formula of the perfect movie, a fine-tuning repo of Microsoft/phi-2, ML prediction for plasma state, and built from scratch: a Name Entity Recognition system, a Recommender system and a Information retrieval system.
+- **Software Engineering**: ConnectOut an Android app buit to help people meet and hang out to learn about activities around where you live.
+- **Security & Privacy**: fuzzing of libpng via Google's OSS-fuzz, a Privacy leaking SOTA attack to reconstruct images from classifiers.
+
+---
+
 ---
 
 ### 🌐 Find Me Online  

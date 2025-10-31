@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me  
-- 🔐 Passionate about **AI Security, Privacy, Machine Learning and Large Language Models (LLMs)**.  
+- 🔐 Passionate about **AI Security, Privacy, Software Engineering, Machine Learning and Large Language Models (LLMs)**.  
 - 🚀 Co-Founder of [**BoundaryAI**](https://www.boundary-ai.com), where I lead a software engineering team and built LLM-driven analytics solutions used by clients.  
 - 📊 Research at [**Swisscom**](https://swisscom.ch) and [**EPFL SPRING Lab**](https://spring.epfl.ch/) respectively on Privacy in LLMs and privacy attacks using diffusion models.
 - 🎓 **Master’s in Data Science** at the [Swiss institute of Technology in Lausanne (EPFL)](https://www.topuniversities.com/universities/epfl-ecole-polytechnique-federale-de-lausanne).  

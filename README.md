@@ -22,8 +22,6 @@ Choose freely your department ;) :
 
 ---
 
----
-
 ### 🌐 Find Me Online  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-saikali/)  
 - 🖥️ [GitHub](https://github.com/EricSaikali)

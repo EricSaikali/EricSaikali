@@ -16,9 +16,9 @@
 
 ### Some of my coolest personal/public projects!:
 Choose freely your department ;) :
-- **AI & Datascience**:  a Mind/Focus controlled car, the formula of the perfect movie, a fine-tuning repo of Microsoft/phi-2, ML prediction for plasma state, and built from scratch: a Name Entity Recognition system, a Recommender system and a Information retrieval system.
-- **Software Engineering**: ConnectOut an Android app buit to help people meet and hang out to learn about activities around where you live.
-- **Security & Privacy**: fuzzing of libpng via Google's OSS-fuzz, a Privacy leaking SOTA attack to reconstruct images from classifiers.
+- **AI & Datascience**:  a [Mind/Focus controlled car](https://github.com/EPFL-EEG-Team), [the formula of the perfect movie](), fine-tuning of [Microsoft/phi-2 for Q&A](https://github.com/EricSaikali/2.8B-Phi-2-LLM-QA)([HF link](https://huggingface.co/collections/ShAIkespear/microsoft-phi-2-finetuned)), [ML prediction for plasma state](https://github.com/Captcha-ML/tokamak-unsupervised), a [Drone tracking system](https://github.com/DavidKalajdzic/track-hawk) and **built from scratch:** a [Name Entity Disambiguation system](https://github.com/DIS-InfoExplorers/Project-3), a [Recommender system](https://github.com/DIS-InfoExplorers/Project-2) and an [Information retrieval system](https://github.com/DIS-InfoExplorers/Project-1).
+- **Software Engineering**: [ConnectOut](https://github.com/ConnectOut-sdp/sdp2023) an Android app buit to help people meet and hang out to learn about activities around where you live.
+- **Security & Privacy**: [fuzzing of libpng](https://github.com/abouquet27/oss-fuzz) via Google's OSS-fuzz, a [Privacy leaking SOTA attack](https://github.com/EricSaikali/DDPM-reconstruction-attack) to reconstruct images from classifiers.
 
 ---
 

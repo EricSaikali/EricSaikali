@@ -26,11 +26,11 @@ Choose freely your department ;) :
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-saikali/)  
 - 🖥️ [GitHub](https://github.com/EricSaikali)
 
----
+[//]: ---
 
-<h2 align="left"> 📈 GitHub Statistics </h2>
-<div align="center"> 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EricSaikali&show_icons=true&include_all_commits=true&count_private=true&theme=vue&line_height=40" />
+<!-- h2 align="left"> 📈 GitHub Statistics </h2 -->
+<!-- div align="center" --> 
+  <!-- img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EricSaikali&show_icons=true&include_all_commits=true&count_private=true&theme=vue&line_height=40"/ -->
 </div>
 
 </p>
